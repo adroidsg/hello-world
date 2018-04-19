@@ -18,3 +18,5 @@ Changes directly in `master` which will conflict with the changes in `5-branch`
 Some changes in the `5-branch` - Part 1 / 3
 
 Some changes in the `5-branch` - Part 2 / 3
+
+Some changes in the `5-branch` - Part 3 / 3
