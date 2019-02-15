@@ -1,8 +1,8 @@
 test1
 
-paragraph changes to first paragraph
-
 paragraph
+
+paragraph changes to second paragraph
 
 paragraph
 
