@@ -1,8 +1,6 @@
-test1
-
 paragraph
 
-paragraph changes to second paragraph
+paragraph
 
 paragraph
 
