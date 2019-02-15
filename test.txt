@@ -1,6 +1,6 @@
 paragraph first paragraph changed
 
-paragraph
+paragraph second paragraph changed
 
 paragraph
 
